@@ -1,0 +1,6 @@
+lib/
+├── main.dart
+├── login_screen.dart
+├── home_screen.dart
+├── user_form_screen.dart
+└── user_preferences.dart
